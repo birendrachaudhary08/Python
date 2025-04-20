@@ -30,12 +30,15 @@ for n in range(1,6,2):
 
 #Exercise:
 
+
+#incremental
 a=int(input("Enter a number: "))
 
 for n in range(1,11):
     print(a," * ",n,"= ",a*n)
 
 
+#decremental
 print()
 for n in range(10,0,-1):
     print(a," * ",n," = ",a*n)
