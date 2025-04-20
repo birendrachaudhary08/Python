@@ -11,4 +11,4 @@ B=int(input("Enter the Value of B: "))
 
 sum = A+B
 
-print("The Sum of ",+A+" and ",+B+" is ",sum)
+print("The Sum of ",A," and ",B," is ",sum)

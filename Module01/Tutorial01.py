@@ -2,7 +2,7 @@
 
 # INteger
 age =25
-print(type(age))
+print(type(age))    
 print("Age: ", age)
 
 #Float
@@ -20,4 +20,3 @@ print("Name: ",Name)
 is_person=True
 print(type(is_person))
 print("Is Birendra a Human",is_person)
-
